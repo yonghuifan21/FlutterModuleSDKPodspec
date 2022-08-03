@@ -6,4 +6,6 @@ Pod::Spec.new do |s|
   s.platform              = :ios, '8.0'
   s.requires_arc          = true
   s.vendored_frameworks   = '*.xcframework'
+  s.author                = { 'Flutter Dev Team' => 'flutter-dev@googlegroups.com' }
+  s.homepage              = 'https://flutter.dev'
 end
