@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'Flutter'
-  s.version               = '2.8.100' # 2.8.1
+  s.version               = '2.8.1' # 2.8.1
   s.summary               = 'A UI toolkit for beautiful and fast apps.'
   s.description           = <<-DESC
 Flutter is Google's UI toolkit for building beautiful, fast apps for mobile, web, desktop, and embedded devices from a single codebase.
